@@ -22,4 +22,4 @@ git add .
 ```bash
 git commit -m "Mensagem"
 ```
-**Atenção** Todo commit deve ter uma descrição (obrigatótio)
+**Atenção** Todo commit deve ter uma descrição (obrigatório)
